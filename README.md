@@ -2,9 +2,9 @@
 
 A simple and beautiful skincare product page built using only **HTML** and **CSS**. Includes emoji for a friendly, natural look. Perfect for a landing or product showcase page.
 
-## 🖼️ Preview
+Live website
 
-![Product Screenshot](https://via.placeholder.com/600x300)
+![https://bikashdasha.github.io/bikashdasha-Online_Skin_Care_Product_Shope/)
 
 ## 🚀 Features
 
